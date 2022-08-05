@@ -7,6 +7,6 @@ setup(
    author='David Tew',
    author_email='davetew@alum.mit.edu',
    url='https://github.com/davetew/Zero-Carbon-Aviation',
-   packages=setuptools.find_packages(),  #same as name
+   packages=setuptools.find_packages("Zero_Carbon_Aviation"),  #same as name
    install_requires=['numpy', 'matplotlib','pandas','pint','cantera'], #external packages as dependencies
 )
