@@ -10,4 +10,11 @@ These four propulsion system options will be evaluated in four different types o
 3. Single Aisle (e.g. Boeing 737)
 4. Twin Aisle (e.g. Boeing 777)
 
+## Organization
+The Zero-Carbon-Aviation analysis tools are organized into several major classes:
+1. Fuels
+2. Aircraft
+3. 
+
+
 
