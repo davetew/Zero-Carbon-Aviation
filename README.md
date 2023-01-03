@@ -1,5 +1,11 @@
 # Zero-Carbon-Aviation
-This repository is intended to contain the evaluation of several potential options for zero-carbon aviation propulsion systems.  These options are expected to include--
+This repository contains a combination of Colab notebooks and Python functions and classes that are being developed to facilitate the evaluation of climate-friendly aviation propulsion systems.  The notebooks are being used to develop the functions and classes that will ultimately be incorporated into a Python package.
+
+The focus of the tools will be on the evaluation of impact of different propulsion system architectures on aircraft performance (e.g., traditional turbofan engines and electrified propulsion system architectures).  
+
+
+
+These options are expected to include--
 1.  Traditional (e.g. Li Ion) batteries
 2.  Carbon-neutral liquid fuels
 3.  Metal-Air Batteries
